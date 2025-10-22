@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Brew-And-Beans/static/css/main.4c5ba022.css",
+    "main.js": "/Brew-And-Beans/static/js/main.e06417c3.js",
+    "index.html": "/Brew-And-Beans/index.html",
+    "main.4c5ba022.css.map": "/Brew-And-Beans/static/css/main.4c5ba022.css.map",
+    "main.e06417c3.js.map": "/Brew-And-Beans/static/js/main.e06417c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c5ba022.css",
+    "static/js/main.e06417c3.js"
+  ]
+}
